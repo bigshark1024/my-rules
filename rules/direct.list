@@ -18,3 +18,4 @@
 +.hdslb.com 
 +.broadcast.chat.bilibili.com
 +.chat.bilibili.com
+- AND,((NETWORK,UDP),(DST-PORT,443/8443),(RULE-SET,xhs)),REJECT
