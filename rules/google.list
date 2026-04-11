@@ -1,3 +1,4 @@
+connectivitycheck.gstatic.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 ai.google.dev
 alkalicore-pa.clients6.google.com
@@ -981,7 +982,6 @@ clickserver.googleads.com
 clientservices.googleapis.com
 cn.widevine.com
 cnappinstall.googleadapis.com
-connectivitycheck.gstatic.com
 content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
